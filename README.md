@@ -18,7 +18,7 @@ Backed by Roblox's mandatory filtering service, it delivers maximum compliance, 
 * 📱 **Modern Glass UI** | Beautiful transparent, smooth rounded corner layout.
 * 🔒 **Ban-Proof Security** | Embedded with `TextFilterService` for strict word and number encryption (`####`).
 * 🗣️ **Dual Rendering** | Synchronized text display inside both the UI frame and floating above player heads.
-* 🔘 **Perfect Fit** | Dynamic script alignment crafted to sit seamlessly under the modern عائم Topbar.
+* 🔘 **Perfect Fit** | Dynamic script alignment crafted to sit seamlessly under the modern floating Topbar.
 * 📦 **One-Click Setup** | Contains an intelligent distribution script that auto-installs everything.
 
 ---
