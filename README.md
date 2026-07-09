@@ -1,15 +1,13 @@
 # 💬 Modern Chat System
 
 <p align="center">
-  <img src="https://shields.io" alt="Roblox">
-  <img src="https://shields.io" alt="Lua">
-  <img src="https://shields.io" alt="MIT License">
+  <b>🎮 Developed for Roblox Studio</b> • <b>📜 Written in Lua</b> • <b>🟢 MIT Licensed</b>
 </p>
 
 ---
 
 ## 🌟 Overview
-**Shisui Modern Chat System** is a premium, open-source custom chat solution built for **Roblox Studio**. It replaces the default chat with a stunning, frosted dark-glass layout tailored perfectly to fit the latest **Floating Topbar** update. 
+**Modern Chat System** is a premium, open-source custom chat solution built for **Roblox Studio**. It replaces the default chat with a stunning, frosted dark-glass layout tailored perfectly to fit the latest **Floating Topbar** update. 
 
 Backed by Roblox's mandatory filtering service, it delivers maximum compliance, full safety from chat bans, and simultaneous modern bubble chat rendering.
 
